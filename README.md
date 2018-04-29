@@ -5,19 +5,21 @@ Arduino
 
 Assembly
 ========
-#### Materials
+### Materials
 * Neopixel string
 * Wemos board (We are using Wemos D1)
 * Micro USB cable
 
-#### Wiring
-You need to solder three wires from the wemos board to the Neopixel string. Connect 5v to v5, Di to D2 on the board and G to G. Some Neopixels have two data pads DI BI. Solder both to D2.<br>
+### Wiring
+You need to solder three wires from the wemos board to the Neopixel string. Connect 5v to v5, Di to D2 on the board and G to G. Some Neopixels have two data pads DI BI. Solder both to D2.
+
 ![alt text](https://i.imgur.com/OKbxjBG.png)
 
-Make sure the direction on the neopixel string is correct:<br>
+Make sure the direction on the neopixel string is correct:
+
 ![alt text](https://i.imgur.com/vEGlM5i.png)
 
-#### How to solder
+### How to solder
 * Make sure the soldering iron is warm.
 * Add a tiny bit of solder on the pads on the strip.
 * Add solder on the wire.
@@ -29,8 +31,8 @@ If you need more assistance for soldering, this video is recommended:<br>
 
 Installation
 ========
-#### Setup
-##### USB Serial driver
+### Setup
+#### USB Serial driver
 To be able to communicate with the Wemos board you will need to install the Serial drivers. On the following link you can find the latest driver:
 https://wiki.wemos.cc/downloads
 
@@ -40,7 +42,7 @@ https://blog.sengotta.net/signed-mac-os-driver-for-winchiphead-ch340-serial-brid
 Directly from the manufacturer of the Serial chip:
 http://www.wch.cn/download/CH341SER_ZIP.html
 
-##### Install Arduino
+#### Install Arduino
 Download Arduino ide from here wwww.arduino.cc -> Download -> Arduino IDE (not Online ide).
 
 Interaction
