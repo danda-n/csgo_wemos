@@ -5,7 +5,7 @@ Arduino
 
 Assembly
 ========
-Materials
+#### Materials
 * Neopixel string
 * Wemos board (We are using Wemos D1)
 * Micro USB cable
