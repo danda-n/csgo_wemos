@@ -1,4 +1,4 @@
-# Counter Strike Global Offensive Wemos | Neopixel game integration
+# CS:GO  Wemos | Neopixel game integration
 
 Arduino
 ========
