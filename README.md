@@ -34,7 +34,7 @@ Make sure the direction on the neopixel string is correct:
 * Put the wire to the pad and heat with the soldering iron.
 
 If you need more assistance for soldering, this video is recommended:<br>
-[![Alt text for your video](https://i.imgur.com/BC29yAS.png)](https://www.youtube.com/watch?v=QzYb9gWQYtc)
+[![Alt text for your video](https://i.imgur.com/7l257sD.png)](https://www.youtube.com/watch?v=QzYb9gWQYtc)
 
 Installation
 ========
