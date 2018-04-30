@@ -95,7 +95,8 @@ And wait until the code is fully uploaded!
 **Remember to properly select Wemos board in arduino, as well as correct port when you plug the board in!**
 
 **2.** Then upload the code to Python using this file:
-     CSGoArduino.py
+    
+    CSGoArduino.py
     
 And execute it following Run -> Run Module (F5).
 ![alt text](https://i.imgur.com/PjPA6nV.png)
