@@ -83,7 +83,7 @@ Uploading code
 
 **1.** First step is to upload code to Arduino for NeoPixel integration from this file:
    
-     ```csgointegrationNeoPixels.ino```
+     csgointegrationNeoPixels.ino
      
 **1.1** To upload the code, you click the button *Upload*
 
@@ -95,7 +95,7 @@ And wait until the code is fully uploaded!
 **Remember to properly select Wemos board in arduino, as well as correct port when you plug the board in!**
 
 **2.** Then upload the code to Python using this file:
-    ```CSGoArduino.py```
+     CSGoArduino.py
     
 And execute it following Run -> Run Module (F5).
 ![alt text](https://i.imgur.com/PjPA6nV.png)
