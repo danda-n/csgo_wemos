@@ -113,7 +113,7 @@ Following steps explain how to use and how NeoPixels work.
 * Start Python server.
 * Observe results and play away.
 
-![](https://i.imgur.com/5krt91P.gifv)
+https://gfycat.com/ImpureComposedGrassspider
 
 
 
