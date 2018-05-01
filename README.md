@@ -113,5 +113,11 @@ Following steps explain how to use and how NeoPixels work.
 * Start Python server.
 * Observe results and play away.
 
+![alt text](https://gfycat.com/ImpureComposedGrassspider)
+
+
+
+Big Thanks goes to [u/NullMember](https://www.reddit.com/user/NullMember) who helped us with the core functionality and [u/Aihalas](https://www.reddit.com/user/Aihalas) who helped with NeoPixel integration.
+
 
 **Have fun!**
