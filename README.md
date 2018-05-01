@@ -53,7 +53,7 @@ Enter the following line into Additional Board manager URLs field:
 Open Boards Manager from Tools > Board menu and install ESP8266 platform (and remember to select board in the selection)
 ![alt text](https://i.imgur.com/U9YVay7.png)
 
-More info available [here](https://github.com/esp8266/Arduino).7
+More info available [here](https://github.com/esp8266/Arduino).
 
 #### Install Adafruit NeoPixel library
 Proceed to Sketch > Include Library > Manage Libraries...
@@ -113,7 +113,9 @@ Following steps explain how to use and how NeoPixels work.
 * Start Python server.
 * Observe results and play away.
 
-![alt text](https://media.giphy.com/media/37R1zpfXeCJ54QNJ1g/giphy.gif)
+![](https://media.giphy.com/media/37R1zpfXeCJ54QNJ1g/giphy.gif)
+
+![alt text](<iframe src="https://giphy.com/embed/37R1zpfXeCJ54QNJ1g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/37R1zpfXeCJ54QNJ1g"></a></p>)
 
 
 
