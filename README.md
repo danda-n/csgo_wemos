@@ -115,7 +115,7 @@ Following steps explain how to use and how NeoPixels work.
 
 ![](https://media.giphy.com/media/37R1zpfXeCJ54QNJ1g/giphy.gif)
 
-![alt text](<iframe src="https://giphy.com/embed/37R1zpfXeCJ54QNJ1g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/37R1zpfXeCJ54QNJ1g"></a></p>)
+<iframe src="https://giphy.com/embed/37R1zpfXeCJ54QNJ1g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/37R1zpfXeCJ54QNJ1g"></a></p>
 
 
 
