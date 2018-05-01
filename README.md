@@ -115,6 +115,10 @@ Following steps explain how to use and how NeoPixels work.
 
 https://gfycat.com/ImpureComposedGrassspider
 
+https://gfycat.com/LankyBossyGhostshrimp
+
+https://gfycat.com/ArtisticQuerulousChevrotain
+
 
 
 
