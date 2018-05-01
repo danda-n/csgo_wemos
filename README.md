@@ -113,9 +113,8 @@ Following steps explain how to use and how NeoPixels work.
 * Start Python server.
 * Observe results and play away.
 
-![](https://media.giphy.com/media/37R1zpfXeCJ54QNJ1g/giphy.gif)
+![](https://i.imgur.com/5krt91P.gifv)
 
-<iframe src="https://giphy.com/embed/37R1zpfXeCJ54QNJ1g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/37R1zpfXeCJ54QNJ1g"></a></p>
 
 
 
